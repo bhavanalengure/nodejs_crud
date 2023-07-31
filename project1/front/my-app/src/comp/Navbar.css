@@ -1,0 +1,25 @@
+h1{
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 25px;
+  letter-spacing: 0.8px;
+  word-spacing: 0.8px;
+  color: #90051A;
+  font-weight: 700;
+  text-decoration: overline solid rgb(68, 68, 68);
+  font-style: italic;
+  font-variant: normal;
+  text-transform: uppercase;
+
+}
+.ab{
+  background-color: #90051A;
+}
+
+.nav{
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  margin-right: 20px;
+}
+

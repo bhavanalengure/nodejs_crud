@@ -1,0 +1,22 @@
+/* Apply general styles to the table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Style the table header */
+th {
+  background-color: #f2f2f2;
+  text-align: left;
+  padding: 8px;
+}
+
+/* Style the table rows */
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* Style table cells */
+td {
+  padding: 8px;
+}

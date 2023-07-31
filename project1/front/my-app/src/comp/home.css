@@ -1,0 +1,84 @@
+nav {
+    background-color: aquamarine;
+    color: black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    /* Styles for your logo or brand name */
+    color: #fff;
+    font-size: 20px;
+  }
+ 
+  .menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  
+
+  }
+  
+  .menu li {
+    margin-right: 10px;
+  }
+  
+  .menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 30px;
+  }
+  
+  .search input[type="text"] {
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+    margin-right: 5px;
+  }
+  
+  .search button {
+    padding: 5px 10px;
+    background-color: black; /* Replace with your desired button background color */
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+  }
+
+
+
+  .table-container {
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  thead {
+    background-color: #f5f5f5;
+  }
+  
+  th {
+    padding: 12px;
+    text-align: left;
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tr:hover {
+    background-color: #f9f9f9;
+  }
+  
+  
